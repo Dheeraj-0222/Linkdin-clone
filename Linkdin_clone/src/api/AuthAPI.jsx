@@ -1,1 +1,3 @@
-export const LoginAPI = () => {};
+export const LoginAPI = () => {
+    console.log('Hello From Login API')
+};
